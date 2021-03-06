@@ -1,0 +1,10 @@
+
+img {
+
+	border-radius: 8px;
+	height: 500px;
+	width: 300px;
+	border-style: double;
+	border-width: 5px;
+	border-color: green;
+}
