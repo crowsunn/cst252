@@ -1,0 +1,25 @@
+body {
+background-color: navy;
+border: solid 1px white;
+}
+
+
+p {
+color: white;
+text-indent: 50px;
+
+}
+
+h1{
+	color: white;
+}
+
+h2 {
+	color: white;
+	font-size: 40px;
+}
+
+h3 {
+	color: white;
+	font-size: 40px;
+}
